@@ -1,3 +1,3 @@
 # MultiPlayer-Game
 
-Itch.io Link: 
+Itch.io Link: https://reut212.itch.io/multiplayer
